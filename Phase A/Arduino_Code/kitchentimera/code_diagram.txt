@@ -1,0 +1,40 @@
+Setup
+	Enable Buttons
+	Enable ISR 
+	Setup Clock ISR
+	Turn on Display
+
+Loop
+	Display timer on display
+	Check timer 
+		-> Display Green led
+	Check red led flag
+		-> Display red led
+		-> Decrease flag value
+	Check if timer is 0 and buzzer flag
+		-> Enable buzzer
+	
+Increment button interupt
+	Debounce
+	Increase timer by 1 second
+	Check if timer is going to overflow
+		->Reset timer to 0
+	Set Red led flag
+
+Start/Stop button interupt
+	Debounce
+	toggle timer flag
+	check if timer is at 0
+		->disable timer flag
+		->disable buzzer flag
+
+Timer ISR
+	Check if timer is enabled
+		->Increment timer funciton
+		
+incTimer
+	check if counter is 0
+		-> disable timer
+		-> disable buzzer
+		-> return
+	decrement timer;
