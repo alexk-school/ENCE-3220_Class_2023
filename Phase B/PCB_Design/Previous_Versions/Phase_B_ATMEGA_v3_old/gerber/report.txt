@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-F_Cu.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-B_Cu.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-F_Paste.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-B_Paste.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-F_Mask.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-B_Mask.gbr'.
+Plotted to 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\alex\Documents\AB_Beta\Phase_B_ATMEGA_v3\gerber\Phase_B_ATMEGA_v3-job.gbrjob'.
+Info: Done.
