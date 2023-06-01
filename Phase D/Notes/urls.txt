@@ -1,0 +1,11 @@
+https://www.st.com/en/evaluation-tools/stm32f4discovery.html#documentation
+https://www.st.com/resource/en/application_note/an3998-pdm-audio-software-decoding-on-stm32-microcontrollers-stmicroelectronics.pdf
+https://www.st.com/resource/en/user_manual/um2372-stm32cube-pdm2pcm-software-library-for-the-stm32f4f7h7-series-stmicroelectronics.pdf
+MB997-F407VGT6-B02_Schematic.pdf - page 4 bottom left is audio sensor (MP45DT02)
+
+https://github.com/tueytoma/Hardware_Lab_Project
+https://github.com/YetAnotherElectronicsChannel/STM32_PDM_Microphone
+https://github.com/4ilo/ssd1306-stm32HAL
+
+https://github.com/pforrmi/KiCad-SSD1306-128x64
+https://www.snapeda.com/parts/STM32F429I-DISC1/STMicroelectronics/view-part/?company=UDenver&

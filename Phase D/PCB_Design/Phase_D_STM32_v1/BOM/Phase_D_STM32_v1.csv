@@ -1,0 +1,3 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"MODULE_STM32F429I-DISC1";1;"STM32F407VGTx";;;
+2;"U2";"128x64OLED";1;"SSD1306";;;

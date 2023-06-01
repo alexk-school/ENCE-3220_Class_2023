@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/Components/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "STM32F429I-DISC1")(type "KiCad")(uri "${KIPRJMOD}/Components/STM32F429I-DISC1")(options "")(descr ""))
+)

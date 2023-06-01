@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-F_Cu.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-B_Cu.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-F_Paste.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-B_Paste.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-F_Mask.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-B_Mask.gbr'.
+Plotted to 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\alex\Documents\Phase D\PCB_Design\Phase_D_STM32_v1\gerber\Phase_D_STM32_v1-job.gbrjob'.
+Info: Done.
