@@ -1,0 +1,29 @@
+Block Diagram
+Main
+    Setup
+	Clock to 16MHz
+	IO Setup
+	ISR Setup
+        IO Init
+	Serial Init
+
+Loop
+    Check Timer Flag
+	tick timer
+	tick com (Serial Parsing)
+    Check Button 1
+	toggle timer
+    Check Button 2
+	inc timer
+    Check Command
+	Case
+	    NULL: nothing
+	    INC: inc timer
+	    STP: if on toggle timer
+	    STR: if off toggle timer
+	clear command
+    Display Time
+    Write the end state to Buzzer
+    Write the end state to RED LED
+    Write the timer state to GREEN LED
+	
