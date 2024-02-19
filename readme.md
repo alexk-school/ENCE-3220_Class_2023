@@ -10,7 +10,7 @@ By Alex Kondracki, Fall Quarter 2023
   - [Phase D](#phase-d)
 
 ## Intro
-This repository is a collection of projects I did for an Embedded Systems class at the University of Denver, CO in Fall 2023. Phase C does not exist.
+This repository is a collection of projects done for an Embedded Systems class at the University of Denver, CO in Fall 2023. Phase C does not exist. The professor was [Goncalo Martins](https://github.com/gfm16617)
 
 Phase A and B consist of making a Kitchen Timer, Phase D is a realtime audio visualizer.
 
